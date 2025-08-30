@@ -6,22 +6,23 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>My Custom Lineup</h1>
+  <h1>My 14-Participant Lineup</h1>
   <button id="reset">Reset Order</button>
   <ol id="lineup">
-    <li draggable="true">Participant 1</li>
-    <li draggable="true">Participant 2</li>
-    <li draggable="true">Participant 3</li>
-    <li draggable="true">Participant 4</li>
-    <li draggable="true">Participant 5</li>
-    <li draggable="true">Participant 6</li>
-    <li draggable="true">Participant 7</li>
-    <li draggable="true">Participant 8</li>
-    <li draggable="true">Participant 9</li>
-    <li draggable="true">Participant 10</li>
-    <li draggable="true">Participant 11</li>
-    <li draggable="true">Participant 12</li>
-    <li draggable="true">Participant 13</li>
+    <li draggable="true">Contestant 1</li>
+    <li draggable="true">Contestant 2</li>
+    <li draggable="true">Contestant 3</li>
+    <li draggable="true">Contestant 4</li>
+    <li draggable="true">Contestant 5</li>
+    <li draggable="true">Contestant 6</li>
+    <li draggable="true">Contestant 7</li>
+    <li draggable="true">Contestant 8</li>
+    <li draggable="true">Contestant 9</li>
+    <li draggable="true">Contestant 10</li>
+    <li draggable="true">Contestant 11</li>
+    <li draggable="true">Contestant 12</li>
+    <li draggable="true">Contestant 13</li>
+    <li draggable="true">Contestant 14</li>
   </ol>
 
   <script src="script.js"></script>
