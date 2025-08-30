@@ -19,18 +19,19 @@ list.addEventListener("dragover", e => {
 // Reset order button
 resetBtn.addEventListener("click", () => {
   list.innerHTML = `
-    <li draggable="true">Participant 1</li>
-    <li draggable="true">Participant 2</li>
-    <li draggable="true">Participant 3</li>
-    <li draggable="true">Participant 4</li>
-    <li draggable="true">Participant 5</li>
-    <li draggable="true">Participant 6</li>
-    <li draggable="true">Participant 7</li>
-    <li draggable="true">Participant 8</li>
-    <li draggable="true">Participant 9</li>
-    <li draggable="true">Participant 10</li>
-    <li draggable="true">Participant 11</li>
-    <li draggable="true">Participant 12</li>
-    <li draggable="true">Participant 13</li>
-  `;
+   <li draggable="true"><img src="Santos Bravos.jpg" alt="Drew"> Drew</li>
+    <li draggable="true"><img src="Santos Bravos-2.jpg" alt="Priano"> Priano</li>
+    <li draggable="true"><img src="Santos Bravos-3.jpg" alt="Pablo"> Pablo</li>
+    <li draggable="true"><img src="Santos Bravos-4.jpg" alt="Diego"> Diego</li>
+    <li draggable="true"><img src="Santos Bravos-5.jpg" alt="Lucas"> Lucas</li>
+    <li draggable="true"><img src="Santos Bravos-6.jpg" alt="Leo"> Leo</li>
+    <li draggable="true"><img src="Santos Bravos-7.jpg" alt="Alejandro"> Alejandro</li>
+    <li draggable="true"><img src="Santos Bravos-8.jpg" alt="Iannis"> Iannis</li>
+    <li draggable="true"><img src="Santos Bravos-9.jpg" alt="Alex"> Alex</li>
+    <li draggable="true"><img src="Alejandro Gabriel on Ig | @gabiprpr.jpg" alt="Gabi"> Gabi</li>
+    <li draggable="true"><img src="Santos Bravos-11.jpg" alt="Luigi"> Luigi</li>
+    <li draggable="true"><img src="Santos Bravos-12.jpg" alt="Kauê"> Kauê/li>
+    <li draggable="true"><img src="Santos Bravos-13.jpg" alt="Jesuale"> Jesuale</li>
+    <li draggable="true"><img src="Santos Bravos-14.jpg" alt="Kenneth"> Kenneth</li> 
+    `;
 });
