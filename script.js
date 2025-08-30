@@ -1,7 +1,7 @@
 const list = document.getElementById("lineup");
 const resetBtn = document.getElementById("reset");
 
-// Simple drag & drop reorder
+// Drag & drop reorder
 let draggedItem = null;
 
 list.addEventListener("dragstart", e => {
@@ -16,12 +16,21 @@ list.addEventListener("dragover", e => {
   }
 });
 
-// Reset order
+// Reset order button
 resetBtn.addEventListener("click", () => {
   list.innerHTML = `
-    <li draggable="true">Contestant A</li>
-    <li draggable="true">Contestant B</li>
-    <li draggable="true">Contestant C</li>
-    <li draggable="true">Contestant D</li>
+    <li draggable="true">Participant 1</li>
+    <li draggable="true">Participant 2</li>
+    <li draggable="true">Participant 3</li>
+    <li draggable="true">Participant 4</li>
+    <li draggable="true">Participant 5</li>
+    <li draggable="true">Participant 6</li>
+    <li draggable="true">Participant 7</li>
+    <li draggable="true">Participant 8</li>
+    <li draggable="true">Participant 9</li>
+    <li draggable="true">Participant 10</li>
+    <li draggable="true">Participant 11</li>
+    <li draggable="true">Participant 12</li>
+    <li draggable="true">Participant 13</li>
   `;
 });
