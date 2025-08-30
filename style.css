@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #f7f7f7;
+}
+
+#lineup {
+  list-style: none;
+  max-width: 300px;
+  margin: 20px auto;
+  padding: 0;
+}
+
+#lineup li {
+  background: white;
+  margin: 5px 0;
+  padding: 10px;
+  border: 1px solid #ddd;
+  cursor: grab;
+}
