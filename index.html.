@@ -2,28 +2,28 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>My Ranker</title>
+  <title>My 14-Participant Lineup</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <h1>My 14-Participant Lineup</h1>
   <button id="reset">Reset Order</button>
   <ol id="lineup">
-    <li draggable="true">Contestant 1</li>
-    <li draggable="true">Contestant 2</li>
-    <li draggable="true">Contestant 3</li>
-    <li draggable="true">Contestant 4</li>
-    <li draggable="true">Contestant 5</li>
-    <li draggable="true">Contestant 6</li>
-    <li draggable="true">Contestant 7</li>
-    <li draggable="true">Contestant 8</li>
-    <li draggable="true">Contestant 9</li>
-    <li draggable="true">Contestant 10</li>
-    <li draggable="true">Contestant 11</li>
-    <li draggable="true">Contestant 12</li>
-    <li draggable="true">Contestant 13</li>
-    <li draggable="true">Contestant 14</li>
-  </ol>
+    <li draggable="true"><img src="Santos Bravos.jpg" alt="Drew"> Drew</li>
+    <li draggable="true"><img src="Santos Bravos-2.jpg" alt="Priano"> Priano</li>
+    <li draggable="true"><img src="Santos Bravos-3.jpg" alt="Pablo"> Pablo</li>
+    <li draggable="true"><img src="Santos Bravos-4.jpg" alt="Diego"> Diego</li>
+    <li draggable="true"><img src="Santos Bravos-5.jpg" alt="Lucas"> Lucas</li>
+    <li draggable="true"><img src="Santos Bravos-6.jpg" alt="Leo"> Leo</li>
+    <li draggable="true"><img src="Santos Bravos-7.jpg" alt="Alejandro"> Alejandro</li>
+    <li draggable="true"><img src="Santos Bravos-8.jpg" alt="Iannis"> Iannis</li>
+    <li draggable="true"><img src="Santos Bravos-9.jpg" alt="Alex"> Alex</li>
+    <li draggable="true"><img src="Alejandro Gabriel on Ig | @gabiprpr.jpg" alt="Gabi"> Gabi</li>
+    <li draggable="true"><img src="Santos Bravos-11.jpg" alt="Luigi"> Luigi</li>
+    <li draggable="true"><img src="Santos Bravos-12.jpg" alt="Kauê"> Kauê/li>
+    <li draggable="true"><img src="Santos Bravos-13.jpg" alt="Jesuale"> Jesuale</li>
+    <li draggable="true"><img src="Santos Bravos-14.jpg" alt="Kenneth"> Kenneth</li> 
+</ol>
 
   <script src="script.js"></script>
 </body>
