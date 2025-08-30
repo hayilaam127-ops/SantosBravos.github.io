@@ -2,11 +2,11 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>My 14-Participant Lineup</title>
+  <title>Mi Banda</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>My 14-Participant Lineup</h1>
+  <h1>Mi Banda</h1>
   <button id="reset">Reset Order</button>
   <ol id="lineup">
     <li draggable="true"><img src="Santos Bravos.jpg" alt="Drew"> Drew</li>
